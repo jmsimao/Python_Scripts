@@ -37,4 +37,4 @@ for s in range(0, 11):
 
 print('-------')
 for t in range(0, 11):
-    print(senha.gerarToken(8))
+    print(senha.gerarToken(6))
